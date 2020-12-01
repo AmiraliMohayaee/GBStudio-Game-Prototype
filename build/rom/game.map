@@ -201,7 +201,7 @@ AREA .  .ABS.
 		s__GSINITTAIL	3A63
 		s__GSFINAL	3A64
 		l__CODE_7	3AFF
-		l__CODE_6	3FEE
+		l__CODE_6	3FF3
 		s__CODE_1	4000
 		s__CODE_4	4000
 		s__CODE_5	4000
@@ -1030,7 +1030,7 @@ AREA _XSEG
 AREA _CODE_6
 	RADIX HEX
 	BASE 4000
-	SIZE 3FEE
+	SIZE 3FF3
 	ATTRIB REL CON
 	GLOBALS
 		_bank_6_data	4000
@@ -1479,124 +1479,124 @@ AREA .  .ABS.
 	GLOBALS
 		.__.ABS.	0000
 MODULES
-	FILE C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/crt0.o
+	FILE C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/crt0.o
 		NAME Runtime
-	FILE C:/tmp/_gbsbuild/obj/Actor_a.o
-	FILE C:/tmp/_gbsbuild/obj/Actor_b.o
-		NAME C__tmp_lcc135001
-	FILE C:/tmp/_gbsbuild/obj/Actor.o
-		NAME C__tmp_lcc130241
-	FILE C:/tmp/_gbsbuild/obj/asm.macros.o
-	FILE C:/tmp/_gbsbuild/obj/BankData.o
-		NAME C__tmp_lcc135841
-	FILE C:/tmp/_gbsbuild/obj/BankManager.o
-		NAME C__tmp_lcc135361
-	FILE C:/tmp/_gbsbuild/obj/Camera_a.o
-	FILE C:/tmp/_gbsbuild/obj/Camera.o
-		NAME C__tmp_lcc138001
-	FILE C:/tmp/_gbsbuild/obj/Collision.o
-		NAME C__tmp_lcc138361
-	FILE C:/tmp/_gbsbuild/obj/Core_Main.o
-		NAME C__tmp_lcc139041
-	FILE C:/tmp/_gbsbuild/obj/DataManager.o
-		NAME C__tmp_lcc139601
-	FILE C:/tmp/_gbsbuild/obj/FadeManager_b.o
-		NAME C__tmp_lcc80801
-	FILE C:/tmp/_gbsbuild/obj/FadeManager.o
-		NAME C__tmp_lcc141641
-	FILE C:/tmp/_gbsbuild/obj/gbt_player_bank1.o
-	FILE C:/tmp/_gbsbuild/obj/gbt_player.o
-	FILE C:/tmp/_gbsbuild/obj/Input.o
-		NAME C__tmp_lcc110281
-	FILE C:/tmp/_gbsbuild/obj/Math.o
-		NAME C__tmp_lcc85241
-	FILE C:/tmp/_gbsbuild/obj/MusicManager.o
-		NAME C__tmp_lcc134441
-	FILE C:/tmp/_gbsbuild/obj/Palette.o
-		NAME C__tmp_lcc97761
-	FILE C:/tmp/_gbsbuild/obj/Projectiles_b.o
-		NAME C__tmp_lcc53441
-	FILE C:/tmp/_gbsbuild/obj/Projectiles.o
-		NAME C__tmp_lcc138401
-	FILE C:/tmp/_gbsbuild/obj/ScriptRunner_b.o
-		NAME C__tmp_lcc138201
-	FILE C:/tmp/_gbsbuild/obj/ScriptRunner.o
-		NAME C__tmp_lcc89881
-	FILE C:/tmp/_gbsbuild/obj/Scroll_a.o
-	FILE C:/tmp/_gbsbuild/obj/Scroll_b.o
-		NAME C__tmp_lcc101121
-	FILE C:/tmp/_gbsbuild/obj/Scroll.o
-		NAME C__tmp_lcc97721
-	FILE C:/tmp/_gbsbuild/obj/Sprite_b.o
-		NAME C__tmp_lcc29401
-	FILE C:/tmp/_gbsbuild/obj/Sprite.o
-		NAME C__tmp_lcc141241
-	FILE C:/tmp/_gbsbuild/obj/Stack.o
-		NAME C__tmp_lcc135761
-	FILE C:/tmp/_gbsbuild/obj/Trigger_b.o
-		NAME C__tmp_lcc135001
-	FILE C:/tmp/_gbsbuild/obj/Trigger.o
-		NAME C__tmp_lcc51321
-	FILE C:/tmp/_gbsbuild/obj/UI_b.o
-		NAME C__tmp_lcc66281
-	FILE C:/tmp/_gbsbuild/obj/UI.o
-		NAME C__tmp_lcc135841
-	FILE C:/tmp/_gbsbuild/obj/bank_6.o
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Actor_a.o
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Actor_b.o
+		NAME C__Users_amira_AppData_Local_Tem»ì»ì¶õá¥30ú⁄0ø¥k0ø¥k0—Ï≠˘Ã
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Actor.o
+		NAME C__Users_amira_AppData_Local_Temº»ìº»ìµ¶õ'≠30h!⁄0≠k0≠k0µ—Ïë˙Ä
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/asm.macros.o
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/BankData.o
+		NAME C__Users_amira_AppData_Local_Tem»ì»ì¶õá∑30⁄0ø∑k0ø∑k0—ÏÕ˘¨
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/BankManager.o
+		NAME C__Users_amira_AppData_Local_Tem‹»ì‹»ì’¶õG®30<¥⁄0®k0®k0’—Ï%˙T
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Camera_a.o
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Camera.o
+		NAME C__Users_amira_AppData_Local_Temú»ìú»ìï¶õ¶30l⁄0?¶k0?¶k0ï—Ï˝˚ú
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Collision.o
+		NAME C__Users_amira_AppData_Local_Tem‹»ì‹»ì’¶õGß30Aı⁄0ßk0ßk0’—Ï≈˚¥
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Core_Main.o
+		NAME C__Users_amira_AppData_Local_Tem<»ì<»ì5¶õß¶30…⁄0ü¶k0ü¶k05—Ï·˚ê
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/DataManager.o
+		NAME C__Users_amira_AppData_Local_Tem
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/FadeManager_b.o
+		NAME C__Users_amira_AppData_Local_Tem<»ì<»ì5¶õß°30Î\⁄0ü°k0ü°k05—Ï˚p
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/FadeManager.o
+		NAME C__Users_amira_AppData_Local_Tem\»ì\»ìU¶õ«°30r⁄0ˇ°k0ˇ°k0U—Ï5˚d
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/gbt_player_bank1.o
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/gbt_player.o
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Input.o
+		NAME C__Users_amira_AppData_Local_Tem¸˘»ì¸˘»ìı¶õgZ30«C⁄0_Zk0_Zk0ı—Ïy‰
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Math.o
+		NAME C__Users_amira_AppData_Local_Tem<¯»ì<¯»ì5Ò¶õß[30C⁄0ü[k0ü[k05Ò—ÏA‰0
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/MusicManager.o
+		NAME C__Users_amira_AppData_Local_Tem‹»ì‹»ì’¶õG¢30Ö+⁄0¢k0¢k0’—Ïe˚
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Palette.o
+		NAME C__Users_amira_AppData_Local_Tem»ì»ì¶õá•30ÿ·⁄0ø•k0ø•k0—Ïç˚Ï
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Projectiles_b.o
+		NAME C__Users_amira_AppData_Local_Temº»ìº»ìµ¶õ'§30í⁄0§k0§k0µ—Ï±˚‡
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Projectiles.o
+		NAME C__Users_amira_AppData_Local_Temú¯»ìú¯»ìïÒ¶õ[30L⁄0?[k0?[k0ïÒ—Ï]‰<
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/ScriptRunner_b.o
+		NAME C__Users_amira_AppData_Local_Tem\^eì\^eìUWõ«˝û0*ºw0ˇ˝∆0ˇ˝∆0UW|ÏµPqEG
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/ScriptRunner.o
+		NAME C__Users_amira_AppData_Local_TemUeìUeì\õáˆû0ÑAw0øˆ∆0øˆ∆0\|ÏÌQ
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Scroll_a.o
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Scroll_b.o
+		NAME C__Users_amira_AppData_Local_Tem<Qeì<Qeì5XõßÚû0°œw0üÚ∆0üÚ∆05X|ÏaQÖ¨N
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Scroll.o
+		NAME C__Users_amira_AppData_Local_Tem|]eì|]eìuTõÁ˛û0Øw0ﬂ˛∆0ﬂ˛∆0uT|ÏÈPD
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Sprite_b.o
+		NAME C__Users_amira_AppData_Local_Tem¸Reì¸Reìı[õgÒû0;Íw0_Ò∆0_Ò∆0ı[|ÏQÌ
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Sprite.o
+		NAME C__Users_amira_AppData_Local_TemºPeìºPeìµYõ'Ûû0÷w0Û∆0Û∆0µY|ÏQQU
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Stack.o
+		NAME C__Users_amira_AppData_Local_Tem|Veì|Veìu_õÁıû0úÕw0ﬂı∆0ﬂı∆0u_|ÏâQ}x\
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Trigger_b.o
+		NAME C__Users_amira_AppData_Local_Tem<^eì<^eì5Wõß˝û0S¡w0ü˝∆0ü˝∆05W|ÏÅPe
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Trigger.o
+		NAME C__Users_amira_AppData_Local_TemúWeìúWeìï^õÙû07w0?Ù∆0?Ù∆0ï^|ÏΩQI
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/UI_b.o
+		NAME C__Users_amira_AppData_Local_Tem\Weì\WeìU^õ«Ùû0≥ëw0ˇÙ∆0ˇÙ∆0U^|ÏURQ
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/UI.o
+		NAME C__Users_amira_AppData_Local_Tem|Peì|PeìuYõÁÛû0‡>w0ﬂÛ∆0ﬂÛ∆0uY|ÏIQΩ
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/bank_6.o
 		NAME bank_6
-	FILE C:/tmp/_gbsbuild/obj/bank_7.o
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/bank_7.o
 		NAME bank_7
-	FILE C:/tmp/_gbsbuild/obj/bank_8.o
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/bank_8.o
 		NAME bank_8
-	FILE C:/tmp/_gbsbuild/obj/data_ptrs.o
-		NAME C__tmp_lcc72201
-	FILE C:/tmp/_gbsbuild/obj/main.o
-		NAME C__tmp_lcc53321
-	FILE C:/tmp/_gbsbuild/obj/Adventure.o
-		NAME C__tmp_lcc138001
-	FILE C:/tmp/_gbsbuild/obj/Platform.o
-		NAME C__tmp_lcc54961
-	FILE C:/tmp/_gbsbuild/obj/PointNClick.o
-		NAME C__tmp_lcc80801
-	FILE C:/tmp/_gbsbuild/obj/Shmup.o
-		NAME C__tmp_lcc117601
-	FILE C:/tmp/_gbsbuild/obj/TopDown.o
-		NAME C__tmp_lcc106561
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/data_ptrs.o
+		NAME C__Users_amira_AppData_Local_Tem¸Keì¸KeìıBõgËû0Uáw0_Ë∆0_Ë∆0ıB|Ï9RÕ
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/main.o
+		NAME C__Users_amira_AppData_Local_Tem¸Deì¸DeìıMõgÁû0Òúw0_Á∆0_Á∆0ıM|ÏŸS-
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Adventure.o
+		NAME C__Users_amira_AppData_Local_Tem\Ceì\CeìUJõ«‡û0µw0ˇ‡∆0ˇ‡∆0UJ|Ï’S—Ê
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Platform.o
+		NAME C__Users_amira_AppData_Local_TemHeìHeìAõáÎû0=uw0øÎ∆0øÎ∆0A|ÏMRπ
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/PointNClick.o
+		NAME C__Users_amira_AppData_Local_Tem¸Neì¸NeìıGõgÌû0—ºw0_Ì∆0_Ì∆0ıG|ÏôRm
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/Shmup.o
+		NAME C__Users_amira_AppData_Local_TemAeìAeìHõá‚û0ì4w0ø‚∆0ø‚∆0H|ÏmSô;y
+	FILE C:/Users/amira/AppData/Local/Temp/_gbsbuild/obj/TopDown.o
+		NAME C__Users_amira_AppData_Local_Tem‹Ieì‹Ieì’@õGÍû0≥¢w0Í∆0Í∆0’@|ÏeRÅ
 LIBRARIES
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE sfr.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE set_prop.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
 		MODULE asm_string.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE rand.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE cgb.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE mv_spr.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE bgb_emu.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
 		MODULE div.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
 		MODULE mul.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE set_wi_t.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE set_data.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE pad.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
 		MODULE __sdcc_call_hl.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE set_spr.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
 		MODULE strcat.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
 		MODULE strlen.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE cpy_data.o
-	LIBRARY C:\tmp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
+	LIBRARY C:\Users\amira\AppData\Local\Temp/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE set_xy_t.o
 USERBASEDEF
 	_CODE=0x0200
