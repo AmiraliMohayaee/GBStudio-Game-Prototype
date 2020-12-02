@@ -1479,7 +1479,22 @@
                     "direction": "down",
                     "moveSpeed": "1",
                     "animSpeed": "3",
-                    "script": [],
+                    "script": [
+                        {
+                            "id": "1ee65946-52b0-481a-a2c5-d36b9c4bd85d",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Cranberry Pumpkin\nJuice. Tasty."
+                                ],
+                                "avatarId": ""
+                            }
+                        },
+                        {
+                            "id": "18a788b9-b7f6-4420-8a4a-77f582c31255",
+                            "command": "EVENT_END"
+                        }
+                    ],
                     "startScript": [],
                     "updateScript": [],
                     "hit1Script": [],
@@ -7047,8 +7062,8 @@
         "startY": 0,
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 268,
-        "worldScrollY": 100,
+        "worldScrollX": 231,
+        "worldScrollY": 35,
         "zoom": 175,
         "customColorsEnabled": true,
         "defaultBackgroundPaletteIds": [
